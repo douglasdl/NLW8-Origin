@@ -44,9 +44,9 @@ This project was developped using the following technologies:
 
 ## 📐 Project
 
-This was a Foundation project from NLW7(Heat)-Origin.
-Check the project online [here](https://douglasdl.github.io/NLW7-Origin/).
-NLW Heat is a digital nameplate created as a warming up and to be used at the DoWhile 2021 event.
+This was a Foundation project from NLW8(Return)-Origin.
+Check the project online [here](https://douglasdl.github.io/NLW8-Origin/).
+NLW Return is a ...
 
 ## 🔖 Layout
 
