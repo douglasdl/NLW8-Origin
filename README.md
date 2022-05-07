@@ -18,7 +18,7 @@ NLW Return
 <br>
 <p align="center">
     <a href="https://douglasdl.github.io/NLW8-Origin/">
-        <img alt="Heat" src="https://douglasdl.github.io/images/Return.png" width="100%">
+        <img alt="Return" src="https://douglasdl.github.io/images/Return.png" width="100%">
     </a>
 </p>
 
