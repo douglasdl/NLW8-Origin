@@ -36,6 +36,7 @@ This project was developped using the following technologies:
 
 📚 Libraries
 - [Google Fonts](https://fonts.google.com/)
+- [Scroll Reveal](https://scrollrevealjs.org/)
 
 🛠 Utilities
 - Images
@@ -61,6 +62,10 @@ This project was done using [Visual Studio Code](https://code.visualstudio.com/)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Omni Theme](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode#:~:text=Prettier%20is%20an%20opinionated%20code,account%2C%20wrapping%20code%20when%20necessary.)
+
+### VS Code Shortcuts
+
+- Command + A, Command + K, Command + 3 : Close all tags and keep only the 3rd level tags open.
 
 ### ⚙ VS Code Configuration
 
